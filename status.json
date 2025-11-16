@@ -1,6 +1,6 @@
 {
   "anyx_cloud_down": false,
   "anyx_db_down": false,
-  "agent_down": false,
+  "agent_down": true,
   "last_updated": "2025-01-15T00:00:00Z"
 }
